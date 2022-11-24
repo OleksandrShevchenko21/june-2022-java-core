@@ -12,8 +12,4 @@ public class SizeOfDrum {
     private int diameter;
     private int height;
 
-//    public SizeOfDrum(int diameter, int height) {
-//        this.diameter = diameter;
-//        this.height = height;
-//    }
 }
